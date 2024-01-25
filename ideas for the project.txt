@@ -1,4 +1,9 @@
 ideas for the project?
  - maybe a book store inventory 
  - trying to push it to github desktop
+<<<<<<< HEAD
  - vamo q vamo
+=======
+ -vamos quase la
+ 
+>>>>>>> 057e8d8b2f13ee4ceb76d13713b71d28b524d22b
