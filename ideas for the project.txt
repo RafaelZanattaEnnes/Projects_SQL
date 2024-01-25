@@ -1,3 +1,5 @@
 ideas for the project?
  - maybe a book store inventory 
- - 
+ - how many books come in a day? 
+ - what are the oldest books?
+ - how many books we have of each type
