@@ -1,3 +1,4 @@
 Select * from clients
 where first_name = 'Tamo_junto'
-sempre
+--sempre
+voce nao precisa desse sempre aqui!!
