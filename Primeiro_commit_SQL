@@ -1,0 +1,3 @@
+Select * from clients
+where first_name = 'Tamo_junto'
+sempre
