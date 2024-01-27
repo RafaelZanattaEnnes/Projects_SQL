@@ -2,3 +2,5 @@
 create or replace table (
   "Hello This is me Mario"
 )
+first table
+my name is Gabriel 
